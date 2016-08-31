@@ -1,2 +1,2 @@
 # SpringBootKotlin
-all written in kotlin -- better java.
+All written in kotlin -- better java.
